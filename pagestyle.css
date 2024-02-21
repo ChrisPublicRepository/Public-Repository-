@@ -9,7 +9,7 @@ font-size: 15px;
 	
 }
 
-.lists {
+.ordered-lists {
 
 padding: 13px;
 
@@ -33,7 +33,7 @@ margin: 10px;
 
 
 .headings {
-color: cyan;
+color: rgb(0, 255, 255)
 padding: 5px;
 
 }
