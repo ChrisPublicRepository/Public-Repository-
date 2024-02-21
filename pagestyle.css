@@ -19,8 +19,13 @@ font-size: 13px;
 
 } 
 
+.line {
 
+pading: 15px;
 
+margin: 15px; 
+
+}
 
 .heading1 {
 color: rgb(0, 255, 255);
