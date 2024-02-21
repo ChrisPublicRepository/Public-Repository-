@@ -25,14 +25,17 @@ font-size: 40;
 
 .images {
 padding: 10px 
+margin: 10px 
 
+	
 
 }
 
 
 
-.header {
-
+.title {
+background-color: cyan;
+padding: 5px 
 
 }
 
