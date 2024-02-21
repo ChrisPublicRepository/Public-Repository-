@@ -9,17 +9,7 @@ font-size: 15px;
 	
 }
 
-.ordered-lists {
 
-padding: 13px;
-
-margin: 13px;
-
-color: rgb(153, 153, 0);
-
-background-color: rgb(153, 153, 0);
-
-}
 
 
 .images {
@@ -52,6 +42,21 @@ background-color: rgb(204, 0, 204);
 
 }
 
+
+.lists {
+
+
+
+
+color: rgb(255,215,0)
+
+
+font-size: 14px 
+
+
+	
+
+}
 
 
 
