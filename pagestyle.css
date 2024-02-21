@@ -1,14 +1,6 @@
 
 
 
-.large-text {
-	
-	
-font-size: 15px;
-	
-	
-}
-
 
 
 
@@ -21,7 +13,6 @@ margin: 10px;
 
 }
 .gold {
-
 background-color: rgb(255, 215, 0) 
 font-size: 13px
 	
@@ -41,22 +32,15 @@ font-size: 20px
 
 
 .link {
-
 padding: 10px;
-
 margin: 10px; 
-
-	
 color: rgb(204, 0, 204);
 
 }
 
 
 .heading2 {
-
 font-size: 20px 
-
-
 color: rgb(102,0,102) 
 
 
@@ -65,14 +49,7 @@ color: rgb(102,0,102)
 }
 
 .lists {
-
-
-
-
 color: rgb(255,215,0)
-
-
-
 font-size: 14px 
 
 
