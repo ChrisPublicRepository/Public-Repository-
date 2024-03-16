@@ -60,6 +60,11 @@ font-size: 14px;
 
 }
 
+
+.table {
+border: gray 10px; 
+}
+
 .video {
 margin: 5px;
 }
