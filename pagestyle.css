@@ -60,6 +60,10 @@ font-size: 14px;
 
 }
 
+.column {
+width: 30px;
+	
+}
 
 .table {
 border: solid 10px; 
