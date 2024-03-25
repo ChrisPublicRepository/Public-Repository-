@@ -26,9 +26,13 @@ margin: 5px;
 }
 
 .body {
-background-color: rgb(21, 27, 84);
-margin: 3px;
 background-image: url("crudoxcruo.jpg");
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover; 
+background-attachment: fixed; 
+	
+
 }
 
 
