@@ -19,6 +19,12 @@ font-size: 13px;
 
 } 
 
+.white-div {
+background-color: linear-gradient(azure, cyan);
+color: black; 
+
+}
+
 .line {
 pading: 15px;
 margin: 5px; 
