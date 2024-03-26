@@ -42,7 +42,9 @@ background-attachment: fixed;
 }
 
 .ocean-gradient {
+background: linear-gradent(10deg, cyan, white);
 
+color: white; 
 
 }
 
