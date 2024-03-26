@@ -20,7 +20,7 @@ font-size: 13px;
 } 
 
 .white-div {
-background-color: linear-gradient(cyan);
+background-color: linear-gradient(cyan, white);
 color: black; 
 
 }
@@ -77,11 +77,6 @@ font-size: 14px;
 
 }
 
-
-.container {
-
-
-} 
 
 .column {
 width: 30px;
