@@ -96,7 +96,10 @@ border: solid 10px;
 margin: 5px;
 }
 
+.menu {
+border-radius: 15px;
 
-
+border: 4px solid blue; 
+}
 
 
