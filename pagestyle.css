@@ -48,18 +48,18 @@ background-attachment: fixed;
 .link {
 padding: 10px;
 margin: 10px; 
-color: indigo;
+color: rgb(128, 0, 0);
 
 }
 
 .td {
-color: rgb(255, 215, 0);
+color: rgb(70, 130, 180);
 font-size: 13px;
 
 }
 
 .heading {
-color: rgb(0, 255, 255);
+color: rgb(70, 130, 180);
 font-size: 20px;
 
 
