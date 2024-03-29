@@ -84,6 +84,12 @@ font-size: 14px;
 }
 
 
+header {
+border: 50px solid silver;
+
+} 
+
+
 .box {
 background-color: rgb(64,64,64); 
 color: rgb(102,0,0); 
