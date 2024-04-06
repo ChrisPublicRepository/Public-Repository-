@@ -22,10 +22,16 @@ margin: 5px;
 p {
 color: rgb(112, 51, 255);
 font-size: 13px;
-	
+font-weight: bold; 
 
 } 
 
+input { 
+color: rgb(112, 51, 255);
+font-size: 13px;
+font-weight: bold; 
+
+}
 .steel-div {
 border: 2px solid steel-blue;
 color: black; 
