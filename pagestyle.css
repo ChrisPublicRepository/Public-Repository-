@@ -113,9 +113,18 @@ color: turquoise;
 
 
 
+a:visited{
+color: yellow
+}
 
 
+a:active {
+color: white;
+}
 
+a:focus {
+color: green; 
+}
 
 
 .lists {
