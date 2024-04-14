@@ -8,7 +8,30 @@ border: 50px solid purple;
 }
 
 
+a {
+color: rgb(0,51,25); 
+transition: color 2s ease-in;
 
+}
+
+
+.square {
+width: 50px;
+height: 50px;
+
+background-color: rgb(102,0,102);
+}
+
+.square-hover {
+
+height: 120px;
+
+width: 120px; 
+
+border: 6px solid black; 
+
+border-radius: 50%
+}
 
 
 .images {
