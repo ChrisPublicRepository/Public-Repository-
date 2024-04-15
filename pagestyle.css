@@ -22,7 +22,7 @@ height: 50px;
 background-color: rgb(102,0,102);
 }
 
-.square-hover {
+@square-hover {
 
 height: 120px;
 
