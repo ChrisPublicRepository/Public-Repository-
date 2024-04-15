@@ -16,10 +16,19 @@ transition: color 2s ease-in;
 
 
 .square {
-width: 50px;
-height: 50px;
+width: 105px;
+	
+height: 105px;
 
 background-color: rgb(102,0,102);
+
+animation-name: rotate;
+
+animation-duration: 15s; 
+
+position: relative; 
+	 
+	
 }
 
 @keyframes square {
