@@ -22,7 +22,7 @@ height: 105px;
 
 background-color: rgb(102,0,102);
 
-animation-name: rotate;
+animation-name: move;
 
 animation-duration: 15s; 
 
@@ -64,6 +64,12 @@ font-size: 15px;
 display: inline-block; 
 margin: 4px;
 	
+
+}
+
+.square:hover {
+
+
 
 }
 
@@ -138,7 +144,7 @@ font-size: 20px;
 
 
 a:hover {
-color: orange; 
+color: rgb(0,204,204);
 
 
 }
@@ -146,7 +152,7 @@ color: orange;
 
 
 a:visited{
-color: 
+color: rgb(153,51,255);
 }
 
 
@@ -155,7 +161,8 @@ color: white;
 }
 
 a:focus {
-color: green; 
+color: rgb(0,204,204);
+	
 }
 
 
