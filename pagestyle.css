@@ -1,6 +1,6 @@
 .container {
 
-border: 50px solid purple;
+border: 50px solid white;
 
 
 
@@ -129,13 +129,18 @@ background-attachment: fixed;
 }
 
 .gradient {
-background: linear-gradient(blue, white);
+background-color: linear-gradient(blue, white);
 color: black;
 font: 15px;
 
 }
 
+.gallery {
+background-color: rgb(255,250,250);
+margin: 50px; 
 
+
+}
 
 
 .link {
