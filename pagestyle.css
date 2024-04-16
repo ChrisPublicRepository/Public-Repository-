@@ -31,6 +31,17 @@ animation-duration: 15s;
 	
 }
 
+
+.img-gallery {
+
+border: 60px solid black; 
+
+margin: 90px;
+
+width: 90px
+
+}
+
 @keyframes square {
 
 height: 120px;
