@@ -48,13 +48,30 @@ animation-duration: 15s;
 
 .img-gallery {
 
-border: 60px solid black; 
+max-width: 1000px; 
 
-margin: 90px;
+position: relative;
 
-width: 90px
+margin: auto; 
+
+background-color: rgb(243, 246, 251); 
+
+	
 
 }
+
+
+.left, .right {
+cursor: pointer; 
+position: relative; 
+transition: .5s; 
+
+
+
+}
+
+
+
 
 @keyframes square {
 
