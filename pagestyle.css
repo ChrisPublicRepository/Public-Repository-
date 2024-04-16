@@ -13,7 +13,21 @@ color: rgb(51,51,255);
 transition: color 2s ease-in;
 
 }
+.column {
 
+float: left;
+
+width: 50px; 
+
+	
+
+}
+
+
+.row {
+
+
+}
 
 .square {
 width: 105px;
