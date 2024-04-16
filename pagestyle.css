@@ -69,6 +69,14 @@ margin: 4px;
 
 .square:hover {
 
+animation-name: rotate; 
+animation-duration: 5s;
+border-radius: 115px; 
+position: relative; 
+
+
+
+
 
 
 }
