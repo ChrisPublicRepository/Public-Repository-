@@ -22,15 +22,7 @@ width: 50px;
 	
 
 }
-.gallery {
-width: 300px; 
-height: 300px; 
 
-	
-
-
-
-}
 .square {
 width: 105px;
 	
@@ -55,8 +47,6 @@ max-width: 1000px;
 position: relative;
 
 margin: auto; 
-
-background-color: rgb(243, 246, 251); 
 
 	
 
@@ -93,6 +83,16 @@ bottom-padding: 10px;
 margin: 5px;
 
 	
+
+}
+
+
+.gallery-image {
+width: 500px;
+height: 500px; 
+border-radius: 2px; 
+
+
 
 }
 
