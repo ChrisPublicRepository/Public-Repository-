@@ -7,6 +7,36 @@ border: 50px solid white;
 
 }
 
+.animatedheader {
+font-family: AlcanteraSeriff;
+
+background: 
+
+}
+
+.animatedheader:hover {
+height: 700px;
+
+
+
+}
+
+
+.animatedheader:active {
+height: 600px; 
+
+
+	
+
+
+}
+
+@keyframes animatedheader {
+
+
+}
+
+
 
 a {
 color: rgb(51,51,255); 
@@ -20,6 +50,17 @@ float: left;
 width: 50px; 
 
 	
+
+}
+
+
+@fontface  {
+font-type: normal;
+
+font-weight: bold; 
+
+src: url("AlcanteraSeriff-gxjp.ttf"); 
+
 
 }
 
