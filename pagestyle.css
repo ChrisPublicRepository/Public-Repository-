@@ -35,6 +35,10 @@ font-family: YuGothic;
 
 font-color: purple; 
 
+font-size: 15px; 
+
+
+	
 
 
 
@@ -139,27 +143,25 @@ margin: 4px;
 
 }
 
-.square:hover {
 
-animation-name: rotate; 
-animation-duration: 5s;
-border-radius: 115px; 
-position: relative; 
-
-
-
-
-
-
-}
 
 
 p {
-color: rgb(112, 51, 255);
+color:rgb(102, 51, 153);
 font-size: 13px;
 font-weight: bold; 
 
 } 
+
+
+p:hover {
+color: rgb(46, 139, 87);
+font-size: 15px; 
+font-weight: bold
+transition: 2s ease-in color; 
+
+
+}
 
 input { 
 color: rgb(112, 51, 255);
