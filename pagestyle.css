@@ -25,15 +25,6 @@ width: 50px;
 }
 
 
-@fontface  {
-font-type: normal;
-
-font-weight: bold; 
-
-src: url("AlcanteraSeriff-gxjp.ttf"); 
-
-
-}
 
 .square {
 width: 105px;
@@ -173,7 +164,8 @@ font-type: AlcanteraSerif;
 	
 }
 #lighterblue_div {
-background: background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+	
+background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
 	
 }
 
