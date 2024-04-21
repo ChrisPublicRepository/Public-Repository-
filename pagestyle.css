@@ -25,6 +25,23 @@ width: 50px;
 }
 
 
+a:hover {
+color: rgb(153, 50, 204)
+transition: color 2s ease in;
+
+}
+
+
+a:visited {
+color: rgb(147, 112, 219)
+transition: color 1s ease in;
+
+}
+
+
+
+
+
 
 .square {
 width: 105px;
