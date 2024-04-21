@@ -7,35 +7,6 @@ border: 50px solid white;
 
 }
 
-.animatedheader {
-font-family: AlcanteraSeriff;
-
-background: 
-
-}
-
-.animatedheader:hover {
-height: 700px;
-
-
-
-}
-
-
-.animatedheader:active {
-height: 600px; 
-
-
-	
-
-
-}
-
-@keyframes animatedheader {
-
-
-}
-
 
 
 a {
@@ -198,8 +169,24 @@ background-attachment: fixed;
 background: linear-gradient(blue, white);
 color: black;
 font: 15px;
+font-type: AlcanteraSerif; 
+	
+}
+#lighterblue_div {
+background: background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+	
+}
+
+
+.gradient:hover {
+transition:  2s ease-in linear-gradient;
+	
+background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+
 
 }
+
+
 
 .gallery {
 
