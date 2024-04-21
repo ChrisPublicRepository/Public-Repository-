@@ -24,6 +24,22 @@ width: 50px;
 
 }
 
+.eventbody {
+background: linear-gradient(black,red);
+
+margin: 10px;
+
+font-weight: bold; 
+
+font-family: YuGothic; 
+
+font-color: purple; 
+
+
+
+
+
+}
 
 a:hover {
 color: rgb(153, 50, 204)
