@@ -7,35 +7,8 @@ display: flex;
 
 }
 
-.oldsteamcontainer {
-
-display: flex; 
-
-background-color: rgb(85, 107, 47);
-
-font-weight: bold; 
 
 
-
-	
-
-}
-.steamtitlebar {
-display: flex;
-
-background-color: rgb(85, 107, 47);
-
-font-weight: bold; 
-
-}
-
-.orangeboxcontainer {
-
-display: flex; 
-background-color: rgb(255, 140, 0);
-
-
-}
 
 footer {
 
@@ -100,21 +73,6 @@ transition: color 1s ease in;
 
 
 
-.square {
-width: 105px;
-	
-height: 105px;
-
-background-color: rgb(102,0,102);
-
-animation-name: move;
-
-animation-duration: 15s; 
-
-
-	 
-	
-}
 
 
 .img-gallery {
@@ -141,20 +99,15 @@ transition: .5s;
 
 
 
-
-@keyframes square {
-
-height: 120px;
-
-width: 120px; 
-
-border: 6px solid black; 
-
-border-radius: 50%
+@keyframes gallery_enlarge {
+	height: 700px; 
+	
+	border: 10px solid black;
+	
+	
 }
 
-
-.images {
+img {
 top-padding: 10px;
 bottom-padding: 10px; 
 margin: 5px;
@@ -209,7 +162,7 @@ font-weight: bold;
 .steel-div {
 border: 2px solid steel-blue;
 color: black; 
-
+display: flex;
 }
 
 .line {
@@ -218,8 +171,17 @@ margin: 5px;
 
 }
 
+.amarante-regular {
+  font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
 body {
-background-image: url("zakuiis.jpg");
+background-image: url("Images/zakuiis.jpg");
 background-repeat: no-repeat;
 background-position: center; 
 background-size: cover; 
@@ -232,7 +194,7 @@ background-attachment: fixed;
 background: linear-gradient(blue, white);
 color: black;
 font: 15px;
-font-type: AlcanteraSerif; 
+font-type: Amarante; 
 	
 }
 #lighterblue_div {
@@ -331,17 +293,19 @@ padding: 5px;
 }
 
 .table {
-border: solid 10px; 
+border: solid black 10px; 
 }
 
-.video {
-margin: 5px;
+
+
+
+
 }
 
-.navmenu {
-
-border: 12px solid white;
-
+video:hover {
+width: 900px;
+height: 900px;
+	
 }
 
 .gallery img {
@@ -353,15 +317,16 @@ padding: 5px;
 }
 
 .gallery img:hover {
-width: 800px;
-border: 5px solid white; 
+animation: gallery_enlarge .5s ease-in;
 }
 
 
+.navmenu {
+	
+display: flex; 
 
-.content {
-border: 50px solid silver;
+color: rgb(0,0,102); 
+
+font-family: Trebuchet MS;	
+	
 }
-
-
-
