@@ -41,7 +41,7 @@ margin: 10px;
 
 font-weight: bold; 
 
-font-family: YuGothic; 
+font-family: Amarante; 
 
 font-color: purple; 
 
@@ -214,6 +214,7 @@ background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 6
 
 
 
+
 .gallery {
 
 margin: 10px 50px; 
@@ -229,11 +230,6 @@ color: rgb(102, 0, 102);
 
 }
 
-td {
-color: rgb(255,255,0);
-font-size: 13px;
-
-}
 
 .heading {
 color: rgb(70, 130, 180);
@@ -269,14 +265,6 @@ color: rgb(0,204,204);
 }
 
 
-.lists {
-color: rgb(255,215,0);
-font-size: 14px;
-
-
-	
-
-}
 
 
 header {
@@ -285,17 +273,13 @@ border: 50px solid silver;
 } 
 
 
+
 .box {
 background-color: rgb(64,64,64); 
 color: rgb(102,0,0); 
 padding: 5px; 
 	
 }
-
-.table {
-border: solid black 10px; 
-}
-
 
 
 
@@ -315,6 +299,14 @@ padding: 5px;
 
 
 }
+
+
+.gallery img:focus {
+	
+	
+	
+}
+
 
 .gallery img:hover {
 animation: gallery_enlarge .5s ease-in;
